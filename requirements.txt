@@ -5,3 +5,4 @@ torch
 setuptools
 torchvision
 natsort
+scipy
